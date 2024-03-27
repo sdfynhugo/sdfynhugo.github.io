@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on ynblog</title>
-    <link>sdfynhugo.github.io/post/</link>
-    <description>Recent content in Posts on ynblog</description>
+    <title>VPS on ynblog</title>
+    <link>sdfynhugo.github.io/tags/vps/</link>
+    <description>Recent content in VPS on ynblog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
-    <lastBuildDate>Wed, 27 Mar 2024 01:34:32 +0000</lastBuildDate><atom:link href="sdfynhugo.github.io/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Helloworld</title>
-      <link>sdfynhugo.github.io/post/helloworld/</link>
-      <pubDate>Wed, 27 Mar 2024 01:34:32 +0000</pubDate>
-      
-      <guid>sdfynhugo.github.io/post/helloworld/</guid>
-      <description>hello world</description>
-    </item>
-    
+    <language>zh-cn</language><atom:link href="sdfynhugo.github.io/tags/vps/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>VPS相关</title>
       <link>sdfynhugo.github.io/post/vps%E7%9B%B8%E5%85%B3/</link>
